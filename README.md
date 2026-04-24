@@ -1,4 +1,4 @@
-<img width="1919" height="987" alt="LOG 4" src="https://github.com/user-attachments/assets/6a0d30b6-73aa-4968-88f9-fbd14107a748" /># Performance Testing Using JMeter
+# Performance Testing Using JMeter
 
 This project provides a complete **API Performance Test using Apache JMeter** for testing all **Authenticated Endpoints** of:
 
